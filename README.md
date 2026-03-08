@@ -1,84 +1,69 @@
-# Java Mini Projects ☕
+# ☕ Java Mini Projects
 
-This repository contains simple **Java mini projects** created for practice and learning basic programming concepts.
-
-These projects help in understanding:
-
-- Java basics
-- Loops
-- Conditional statements
-- Random number generation
-- User input using Scanner
+This repository contains simple **Java mini projects** created for practicing core programming concepts.
+These projects help beginners understand Java fundamentals through small console-based applications.
 
 ---
 
 ## 📂 Projects Included
 
-### 1️⃣ Calculator Application
+### 1️⃣ Calculator
 
-A simple calculator that performs basic arithmetic operations.
+A simple console-based calculator that performs basic arithmetic operations.
 
 **Features**
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
+* Addition
+* Subtraction
+* Multiplication
+* Division
 
 **Concepts Used**
 
-- Scanner for user input
-- Switch / if-else statements
-- Basic arithmetic operations
+* Scanner class for user input
+* Conditional statements
+* Basic arithmetic operations
 
 ---
 
 ### 2️⃣ Number Guessing Game
 
-A fun console-based game where the user guesses a randomly generated number.
+A fun console game where the computer generates a random number and the user tries to guess it.
 
-**How it works**
+**Features**
 
-- Computer generates a random number between **1 and 100**
-- User enters guesses
-- Program gives hints like **Too High** or **Too Low**
-- Game continues until the correct number is guessed
+* Random number generation
+* User input
+* Hint system (Too High / Too Low)
+* Attempt counter
 
 **Concepts Used**
 
-- Random class
-- Loops
-- Conditional statements
-- User input using Scanner
+* Random class
+* Loops
+* Conditional statements
 
 ---
 
-## 🛠 Technologies Used
+### 3️⃣ Password Generator
 
-- Java
-- VS Code / IntelliJ
-- Git & GitHub
+Generates a random password based on the length entered by the user.
 
----
+**Features**
 
-## 🎯 Purpose of This Repository
+* Custom password length
+* Random characters
+* Includes letters, numbers, and special characters
 
-The goal of this repository is to:
+**Concepts Used**
 
-- Practice **Java programming**
-- Build **mini projects**
-- Maintain a **GitHub portfolio for learning**
-
----
-
-## 🚀 Future Projects
-
-More Java mini projects will be added soon:
-
-- Student Grade Calculator
-- Password Generator
-- To-Do List (Console App)
+* Random class
+* String handling
+* Loops
 
 ---
 
-⭐ If you like this repository, feel free to **star it**.
+
+---
+
+⭐ If you find this repository helpful, consider **starring it**.
